@@ -1,5 +1,6 @@
-# Ex. No:1b 			Study of Client Server Chat Applications
-
+# Ex. No:1b Study of Client Server Chat Applications
+Name:R.Sabarinath
+Register No:212223100048
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
